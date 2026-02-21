@@ -30,7 +30,7 @@ You **install the full repo once** (npx or clone); Starter Packs are curated lis
 npx antigravity-awesome-skills
 ```
 
-This clones to `~/.agent/skills` by default. Use `--cursor`, `--claude`, `--gemini`, or `--codex` to install for a specific tool, or `--path <dir>` for a custom location. Run `npx antigravity-awesome-skills --help` for details.
+This clones to `~/.agent/skills` by default. Use `--cursor`, `--claude`, `--gemini`, `--codex`, or `--kiro` to install for a specific tool, or `--path <dir>` for a custom location. Run `npx antigravity-awesome-skills --help` for details.
 
 If you see a 404 error, use: `npx github:sickn33/antigravity-awesome-skills`
 
@@ -100,6 +100,7 @@ Once installed, just talk to your AI naturally.
 | **Claude Code** | ✅ Full Support | `.claude/skills/` |
 | **Gemini CLI**  | ✅ Full Support | `.gemini/skills/` |
 | **Codex CLI**   | ✅ Full Support | `.codex/skills/`  |
+| **Kiro CLI**    | ✅ Full Support | `.kiro/skills/`   |
 | **Antigravity** | ✅ Native       | `.agent/skills/`  |
 | **Cursor**      | ✅ Native       | `.cursor/skills/` |
 | **Copilot**     | ⚠️ Text Only    | Manual copy-paste |

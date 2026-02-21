@@ -22,9 +22,10 @@ It's like having a library - all books are there, but you only read the ones you
 - **Bundles** are curated recommendations grouped by role or domain.
 - **Workflows** are ordered execution playbooks for concrete outcomes.
 
-Use bundles when you are deciding *which skills* to include. Use workflows when you need *step-by-step execution*.
+Use bundles when you are deciding _which skills_ to include. Use workflows when you need _step-by-step execution_.
 
 Start from:
+
 - [BUNDLES.md](BUNDLES.md)
 - [WORKFLOWS.md](WORKFLOWS.md)
 
@@ -33,6 +34,7 @@ Start from:
 - ✅ **Claude Code** (Anthropic CLI)
 - ✅ **Gemini CLI** (Google)
 - ✅ **Codex CLI** (OpenAI)
+- ✅ **Kiro CLI** (AWS)
 - ✅ **Cursor** (AI IDE)
 - ✅ **Antigravity IDE**
 - ✅ **OpenCode**
@@ -88,6 +90,7 @@ git clone https://github.com/sickn33/antigravity-awesome-skills.git .agent/skill
 - Claude Code: `.claude/skills/`
 - Gemini CLI: `.gemini/skills/`
 - Codex CLI: `.codex/skills/`
+- Kiro CLI: `.kiro/skills/`
 - Cursor: `.cursor/skills/` or project root
 
 ### Does this work with Windows?
